@@ -1,0 +1,4 @@
+C:\Users\lisbe\OneDrive\Escritorio\pripri\Ejercicios C#\Ejercicio4\Ejercicio4\obj\Debug\net7.0\Ejercicio4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lisbe\OneDrive\Escritorio\pripri\Ejercicios C#\Ejercicio4\Ejercicio4\obj\Debug\net7.0\Ejercicio4.AssemblyInfoInputs.cache
+C:\Users\lisbe\OneDrive\Escritorio\pripri\Ejercicios C#\Ejercicio4\Ejercicio4\obj\Debug\net7.0\Ejercicio4.AssemblyInfo.cs
+C:\Users\lisbe\OneDrive\Escritorio\pripri\Ejercicios C#\Ejercicio4\Ejercicio4\obj\Debug\net7.0\Ejercicio4.csproj.CoreCompileInputs.cache

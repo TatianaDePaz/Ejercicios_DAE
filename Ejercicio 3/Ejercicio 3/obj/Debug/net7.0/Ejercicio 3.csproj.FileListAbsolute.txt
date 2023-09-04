@@ -1,0 +1,14 @@
+C:\Users\lisbe\OneDrive\Escritorio\pripri\Ejercicios C#\Ejercicio 3\Ejercicio 3\bin\Debug\net7.0\Ejercicio 3.exe
+C:\Users\lisbe\OneDrive\Escritorio\pripri\Ejercicios C#\Ejercicio 3\Ejercicio 3\bin\Debug\net7.0\Ejercicio 3.deps.json
+C:\Users\lisbe\OneDrive\Escritorio\pripri\Ejercicios C#\Ejercicio 3\Ejercicio 3\bin\Debug\net7.0\Ejercicio 3.runtimeconfig.json
+C:\Users\lisbe\OneDrive\Escritorio\pripri\Ejercicios C#\Ejercicio 3\Ejercicio 3\bin\Debug\net7.0\Ejercicio 3.dll
+C:\Users\lisbe\OneDrive\Escritorio\pripri\Ejercicios C#\Ejercicio 3\Ejercicio 3\bin\Debug\net7.0\Ejercicio 3.pdb
+C:\Users\lisbe\OneDrive\Escritorio\pripri\Ejercicios C#\Ejercicio 3\Ejercicio 3\obj\Debug\net7.0\Ejercicio 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lisbe\OneDrive\Escritorio\pripri\Ejercicios C#\Ejercicio 3\Ejercicio 3\obj\Debug\net7.0\Ejercicio 3.AssemblyInfoInputs.cache
+C:\Users\lisbe\OneDrive\Escritorio\pripri\Ejercicios C#\Ejercicio 3\Ejercicio 3\obj\Debug\net7.0\Ejercicio 3.AssemblyInfo.cs
+C:\Users\lisbe\OneDrive\Escritorio\pripri\Ejercicios C#\Ejercicio 3\Ejercicio 3\obj\Debug\net7.0\Ejercicio 3.csproj.CoreCompileInputs.cache
+C:\Users\lisbe\OneDrive\Escritorio\pripri\Ejercicios C#\Ejercicio 3\Ejercicio 3\obj\Debug\net7.0\Ejercicio 3.dll
+C:\Users\lisbe\OneDrive\Escritorio\pripri\Ejercicios C#\Ejercicio 3\Ejercicio 3\obj\Debug\net7.0\refint\Ejercicio 3.dll
+C:\Users\lisbe\OneDrive\Escritorio\pripri\Ejercicios C#\Ejercicio 3\Ejercicio 3\obj\Debug\net7.0\Ejercicio 3.pdb
+C:\Users\lisbe\OneDrive\Escritorio\pripri\Ejercicios C#\Ejercicio 3\Ejercicio 3\obj\Debug\net7.0\Ejercicio 3.genruntimeconfig.cache
+C:\Users\lisbe\OneDrive\Escritorio\pripri\Ejercicios C#\Ejercicio 3\Ejercicio 3\obj\Debug\net7.0\ref\Ejercicio 3.dll
