@@ -1,0 +1,14 @@
+C:\Users\lisbe\OneDrive\Escritorio\pripri\DAEC#2\Ejercicio _5\bin\Debug\net7.0\Ejercicio _5.exe
+C:\Users\lisbe\OneDrive\Escritorio\pripri\DAEC#2\Ejercicio _5\bin\Debug\net7.0\Ejercicio _5.deps.json
+C:\Users\lisbe\OneDrive\Escritorio\pripri\DAEC#2\Ejercicio _5\bin\Debug\net7.0\Ejercicio _5.runtimeconfig.json
+C:\Users\lisbe\OneDrive\Escritorio\pripri\DAEC#2\Ejercicio _5\bin\Debug\net7.0\Ejercicio _5.dll
+C:\Users\lisbe\OneDrive\Escritorio\pripri\DAEC#2\Ejercicio _5\bin\Debug\net7.0\Ejercicio _5.pdb
+C:\Users\lisbe\OneDrive\Escritorio\pripri\DAEC#2\Ejercicio _5\obj\Debug\net7.0\Ejercicio _5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lisbe\OneDrive\Escritorio\pripri\DAEC#2\Ejercicio _5\obj\Debug\net7.0\Ejercicio _5.AssemblyInfoInputs.cache
+C:\Users\lisbe\OneDrive\Escritorio\pripri\DAEC#2\Ejercicio _5\obj\Debug\net7.0\Ejercicio _5.AssemblyInfo.cs
+C:\Users\lisbe\OneDrive\Escritorio\pripri\DAEC#2\Ejercicio _5\obj\Debug\net7.0\Ejercicio _5.csproj.CoreCompileInputs.cache
+C:\Users\lisbe\OneDrive\Escritorio\pripri\DAEC#2\Ejercicio _5\obj\Debug\net7.0\Ejercicio _5.dll
+C:\Users\lisbe\OneDrive\Escritorio\pripri\DAEC#2\Ejercicio _5\obj\Debug\net7.0\refint\Ejercicio _5.dll
+C:\Users\lisbe\OneDrive\Escritorio\pripri\DAEC#2\Ejercicio _5\obj\Debug\net7.0\Ejercicio _5.pdb
+C:\Users\lisbe\OneDrive\Escritorio\pripri\DAEC#2\Ejercicio _5\obj\Debug\net7.0\Ejercicio _5.genruntimeconfig.cache
+C:\Users\lisbe\OneDrive\Escritorio\pripri\DAEC#2\Ejercicio _5\obj\Debug\net7.0\ref\Ejercicio _5.dll

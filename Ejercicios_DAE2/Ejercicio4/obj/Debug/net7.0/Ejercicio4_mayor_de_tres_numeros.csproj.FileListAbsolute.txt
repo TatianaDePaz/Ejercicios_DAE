@@ -1,0 +1,14 @@
+C:\Users\lisbe\OneDrive\Escritorio\pripri\DAEC#2\Ejercicio4_mayor_de_tres_numeros\obj\Debug\net7.0\Ejercicio4_mayor_de_tres_numeros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lisbe\OneDrive\Escritorio\pripri\DAEC#2\Ejercicio4_mayor_de_tres_numeros\obj\Debug\net7.0\Ejercicio4_mayor_de_tres_numeros.AssemblyInfoInputs.cache
+C:\Users\lisbe\OneDrive\Escritorio\pripri\DAEC#2\Ejercicio4_mayor_de_tres_numeros\obj\Debug\net7.0\Ejercicio4_mayor_de_tres_numeros.AssemblyInfo.cs
+C:\Users\lisbe\OneDrive\Escritorio\pripri\DAEC#2\Ejercicio4_mayor_de_tres_numeros\obj\Debug\net7.0\Ejercicio4_mayor_de_tres_numeros.csproj.CoreCompileInputs.cache
+C:\Users\lisbe\OneDrive\Escritorio\pripri\DAEC#2\Ejercicio4_mayor_de_tres_numeros\bin\Debug\net7.0\Ejercicio4_mayor_de_tres_numeros.exe
+C:\Users\lisbe\OneDrive\Escritorio\pripri\DAEC#2\Ejercicio4_mayor_de_tres_numeros\bin\Debug\net7.0\Ejercicio4_mayor_de_tres_numeros.deps.json
+C:\Users\lisbe\OneDrive\Escritorio\pripri\DAEC#2\Ejercicio4_mayor_de_tres_numeros\bin\Debug\net7.0\Ejercicio4_mayor_de_tres_numeros.runtimeconfig.json
+C:\Users\lisbe\OneDrive\Escritorio\pripri\DAEC#2\Ejercicio4_mayor_de_tres_numeros\bin\Debug\net7.0\Ejercicio4_mayor_de_tres_numeros.dll
+C:\Users\lisbe\OneDrive\Escritorio\pripri\DAEC#2\Ejercicio4_mayor_de_tres_numeros\bin\Debug\net7.0\Ejercicio4_mayor_de_tres_numeros.pdb
+C:\Users\lisbe\OneDrive\Escritorio\pripri\DAEC#2\Ejercicio4_mayor_de_tres_numeros\obj\Debug\net7.0\Ejercicio4_mayor_de_tres_numeros.dll
+C:\Users\lisbe\OneDrive\Escritorio\pripri\DAEC#2\Ejercicio4_mayor_de_tres_numeros\obj\Debug\net7.0\refint\Ejercicio4_mayor_de_tres_numeros.dll
+C:\Users\lisbe\OneDrive\Escritorio\pripri\DAEC#2\Ejercicio4_mayor_de_tres_numeros\obj\Debug\net7.0\Ejercicio4_mayor_de_tres_numeros.pdb
+C:\Users\lisbe\OneDrive\Escritorio\pripri\DAEC#2\Ejercicio4_mayor_de_tres_numeros\obj\Debug\net7.0\Ejercicio4_mayor_de_tres_numeros.genruntimeconfig.cache
+C:\Users\lisbe\OneDrive\Escritorio\pripri\DAEC#2\Ejercicio4_mayor_de_tres_numeros\obj\Debug\net7.0\ref\Ejercicio4_mayor_de_tres_numeros.dll

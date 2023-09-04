@@ -1,0 +1,4 @@
+C:\Users\lisbe\OneDrive\Escritorio\pripri\DAEC#2\Ejercicio1\obj\Debug\net7.0\Ejercicio1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lisbe\OneDrive\Escritorio\pripri\DAEC#2\Ejercicio1\obj\Debug\net7.0\Ejercicio1.AssemblyInfoInputs.cache
+C:\Users\lisbe\OneDrive\Escritorio\pripri\DAEC#2\Ejercicio1\obj\Debug\net7.0\Ejercicio1.AssemblyInfo.cs
+C:\Users\lisbe\OneDrive\Escritorio\pripri\DAEC#2\Ejercicio1\obj\Debug\net7.0\Ejercicio1.csproj.CoreCompileInputs.cache

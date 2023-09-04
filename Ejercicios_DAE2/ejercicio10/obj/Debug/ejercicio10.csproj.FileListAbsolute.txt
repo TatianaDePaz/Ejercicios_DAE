@@ -1,0 +1,7 @@
+C:\Users\MINEDUCYT\Desktop\examen1\ejercicio10\bin\Debug\ejercicio10.exe.config
+C:\Users\MINEDUCYT\Desktop\examen1\ejercicio10\bin\Debug\ejercicio10.exe
+C:\Users\MINEDUCYT\Desktop\examen1\ejercicio10\bin\Debug\ejercicio10.pdb
+C:\Users\MINEDUCYT\Desktop\examen1\ejercicio10\obj\Debug\ejercicio10.csproj.AssemblyReference.cache
+C:\Users\MINEDUCYT\Desktop\examen1\ejercicio10\obj\Debug\ejercicio10.csproj.CoreCompileInputs.cache
+C:\Users\MINEDUCYT\Desktop\examen1\ejercicio10\obj\Debug\ejercicio10.exe
+C:\Users\MINEDUCYT\Desktop\examen1\ejercicio10\obj\Debug\ejercicio10.pdb
